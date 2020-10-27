@@ -7,7 +7,7 @@ cffi==1.11.5
 chardet==3.0.4
 cmocean==2.0
 conda==4.5.12
-cryptography==2.4.2
+cryptography==3.2
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
